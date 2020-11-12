@@ -1,0 +1,1 @@
+# stampcover_model
